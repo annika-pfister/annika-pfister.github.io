@@ -1,7 +1,3 @@
-# Annika Pfister
+# GitHub for Annika Pfister's personal website.
 
-## Home
 
-## Pages
-
-[About](/about/about.md) | [Contact](/about/contact.md)
