@@ -2,4 +2,4 @@
 
 ## Sections
 
-[About]() | [Contact]()
+[About](/about.md) | [Contact](/contact.md)
