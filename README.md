@@ -1,3 +1,3 @@
-# GitHub for Annika Pfister's personal website.
+# GitHub for personal website
 
 
