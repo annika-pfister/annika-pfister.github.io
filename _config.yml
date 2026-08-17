@@ -45,9 +45,9 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  conf-papers:
     title: 'Conference Papers'
-  posters:
+  conferences:
     title: 'Conference Presentations + Posters'
 
 
