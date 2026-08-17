@@ -3,9 +3,9 @@ title: "Biomechanical Effects of Varying Transcutaneous Spinal Cord Stimulation 
 collection: publications
 category: manuscripts
 permalink: /publication/biomechanical-effects
-excerpt: "Student paper presented at ICORR (RehabWeek 2025)."
+excerpt: "Student paper presented at ICORR (RehabWeek 2025), case series evaluating the effects of tSCS amplitude on various outcome measures for walking in adults with SCI."
 date: 2025-08-11
-venue: "TechRxiv"
-paperurl: "https://www.techrxiv.org/users/943787/articles/1313798-biomechanical-effects-of-varying-transcutaneous-spinal-cord-stimulation-amplitude-during-walking-in-individuals-with-spinal-cord-injury-a-case-series?commit=d02f46906239d5c39e149c094321213f9664954f"
-citation: "Annika Pfister, Soshi Samejima, Chet T. Moritz, et al. Biomechanical Effects of Varying Transcutaneous Spinal Cord Stimulation Amplitude during Walking in Individuals with Spinal Cord Injury: A Case Series. TechRxiv. August 02, 2025."
+venue: "IEEE TMRB"
+paperurl: "https://ieeexplore.ieee.org/document/11151649"
+citation: "A. Pfister, S. Samejima, C. T. Moritz and K. A. Ingraham, 'Biomechanical Effects of Varying Transcutaneous Spinal Cord Stimulation Amplitude During Walking in Individuals With Spinal Cord Injury: A Case Series,' in IEEE Transactions on Medical Robotics and Bionics, vol. 8, no. 1, pp. 84-89, Feb. 2026, doi: 10.1109/TMRB.2025.3605960."
 ---
