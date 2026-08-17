@@ -1,7 +1,7 @@
 ---
 title: "Biomechanical Effects of Varying Transcutaneous Spinal Cord Stimulation Amplitude during Walking in Individuals with Spinal Cord Injury: A Case Series"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/biomechanical-effects
 excerpt: "Student paper presented at ICORR (RehabWeek 2025)."
 date: 2025-08-11
